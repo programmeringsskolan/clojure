@@ -1,5 +1,3 @@
-# Clojure
-
 ## Hello World!
 
 ```clojure
